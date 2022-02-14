@@ -1,0 +1,11 @@
+.logo {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+  background: url(./Cube.png) no-repeat 0 0;
+}
+
+h1 {
+  text-align: center;
+}
